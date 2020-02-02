@@ -1,1 +1,1 @@
-https://github.com/Ant13Z/rsschool-cv/cv
+https://ant13z.github.io/rsschool-cv/cv
